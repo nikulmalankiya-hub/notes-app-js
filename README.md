@@ -4,7 +4,7 @@ A simple and modern **Notes App** built using HTML, CSS and JavaScript.
 
 ## 🌐 Live Demo
 
-👉 ****
+👉 **https://nikulmalankiya-hub.github.io/notes-app-js/**
 
 
 ## ✨ Features
